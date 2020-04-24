@@ -1,0 +1,27 @@
+# Título: A Whirlwind Tour of Python
+
+# Author: Jake VanderPlas
+
+# Link: https://jakevdp.github.io/WhirlwindTourOfPython/
+
+# Content:
+
+    1. Introduction
+    2. How to Run Python Code
+    3. Basic Python Syntax
+    4. Python Semantics: Variables
+    5. Python Semantics: Operators
+    6. Built-In Scalar Types
+    7. Built-In Data Structures
+    8. Control Flow Statements
+    9. Defining Functions
+    10. Errors and Exceptions
+    11. Iterators
+    12. List Comprehensions
+    13. Generators and Generator Expressions
+    14. Modules and Packages
+    15. Strings and Regular Expressions
+    16. Preview of Data Science Tools
+    17. Resources for Further Learning
+    18. Appendix: Code To Reproduce Figures
+
